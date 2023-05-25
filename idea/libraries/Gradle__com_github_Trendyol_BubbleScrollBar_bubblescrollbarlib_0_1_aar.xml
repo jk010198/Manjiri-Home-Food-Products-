@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.Trendyol.BubbleScrollBar:bubblescrollbarlib:0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/69d250cb8bb13895b3f0145797da6b89/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/69d250cb8bb13895b3f0145797da6b89/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5220859cb6ee5a8052a22442edfa6396/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5220859cb6ee5a8052a22442edfa6396/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5220859cb6ee5a8052a22442edfa6396/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
