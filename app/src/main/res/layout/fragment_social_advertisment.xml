@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragments.SocialAdvertisment">
+
+
+    <TextView
+        android:id="@+id/tv_head"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:gravity="center_vertical|center"
+        android:text="Tap on Ads for details"
+        android:layout_alignParentTop="true"
+        android:textColor="#000"
+        android:textSize="19sp" />
+
+    <ListView
+        android:id="@+id/listview_social_ads"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/tv_head"
+        android:layout_marginTop="5dp"
+        android:background="@color/gray"
+        android:paddingLeft="5dp"
+        app:layout_constraintBottom_toBottomOf="parent" />
+
+
+    <TextView
+        android:id="@+id/tv_nodata_social_ads"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_gravity="center_vertical"
+        android:gravity="center"
+        android:text="No Ads avaliable"
+        android:textColor="#000"
+        android:visibility="invisible" />
+
+</RelativeLayout>

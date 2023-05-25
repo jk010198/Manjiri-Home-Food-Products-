@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Manjiri Home Food Products</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="currency">Rs </string>
+    <string name="tv_pro_price">Price per </string>
+    <string name="remove">Remove</string>
+    <string name="mrp">MRP:</string>
+    <string name="tv_cart_item">Items: </string>
+    <string name="tv_cart_total">Total: </string>
+    <string name="dialog_title">Manjiri Home Food Products</string>
+    <string name="vision">To be a "Model" an independent, innovative, honest and sustainable co-operative
+        in which customers not only able to choose but can demand wide range of goods at reasonable prices.</string>
+    <string name="mission">To take care of our Employees, Partners, Customers and Society, with a unique and excieting shopping experience,
+        offering quality, variety, price and service.</string>
+    <string name="features"> "-Fresh Quality Products\n"
+                            "-Competitive Rates\n"
+                            "-Quick Service\n"
+                            "-Discount on Bulk Buying\n"
+                            "-Excellent Product Reviews\n"
+                            "-Personal Attention for Customer Feedback \n"
+                            "-Free Home Delivery* \n"
+                            "-Various payment methods \n"
+                            "-Best Suggestions will be rewarded \n"</string>
+</resources>

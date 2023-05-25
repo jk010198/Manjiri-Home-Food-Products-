@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- <color name="colorPrimary">#800000</color>
+    <color name="colorPrimaryDark">#6B0000</color>
+    -->
+
+    <color name="colorPrimary">#0B91E6</color>
+    <color name="colorPrimaryDark">#18a3fe</color>
+    <color name="colorAccent">#FF18A3FE</color>
+
+    <color name="scrollBarBackground">#94C0F5</color>
+
+    <color name="grey_3">#f7f7f7</color>
+    <color name="grey_5">#f2f2f2</color>
+    <color name="grey_10">#e6e6e6</color>
+    <color name="grey_20">#cccccc</color>
+    <color name="grey_40">#999999</color>
+    <color name="grey_60">#666666</color>
+    <color name="grey_80">#37474F</color>
+    <color name="grey_90">#263238</color>
+
+    <color name="teal_100">#85C0F0</color>
+    <color name="teal_200">#80CBC4</color>
+    <color name="teal_500">#009688</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="gray">#e3e3e3</color>
+    <color name="color_3">#ff0023</color>
+    <color name="dark_gray">#999999</color>
+
+    <color name="overlay_dark_10">#1A000000</color>
+
+    <!-- colors for button style -->
+
+    <color name="gradient_start_color">#4c84ff</color>
+    <color name="gradient_end_color">#18a3fe</color>
+
+    <!-- colors for tab and screent text -->
+
+    <color name="tab_indicator_gray">#c0c0c0</color>
+    <color name="intro_title_color">#000000</color>
+    <color name="intro_description_color">#656565</color>
+
+</resources>
